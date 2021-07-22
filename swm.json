@@ -4924,19 +4924,6 @@
         {
          "columns":21,
          "firstgid":5673,
-         "image":"..\/IMG_77122.png",
-         "imageheight":141,
-         "imagewidth":689,
-         "margin":0,
-         "name":"IMG_77122",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":21,
-         "firstgid":5673,
          "image":"IMG_77122.png",
          "imageheight":141,
          "imagewidth":689,
